@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm TANU</h1>
-<h3 align="center">A passionate Frontend and Software Developer from India.</h3>
+<h1 align="center">Hi 👋,I'm TANU</h1>
+<h3 align="center"> A passionate Frontend and Software Developer from India.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif">
 
