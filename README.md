@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TANU</h1>
 <h3 align="center">A passionate Frontend and Software Developer student from India.</h3>
 
-<img align="right"alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0*PXf5ge7QCN9Ga_CL.gif">
+<img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0*PXf5ge7QCN9Ga_CL.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanu9044&label=Profile%20views&color=0e75b6&style=flat" alt="tanu9044" /> </p>
 
