@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TANU</h1>
-<h3 align="center">A passionate Frontend and Software Developer from India.</h3>
+<h3 align="center">A passionate Frontend and Software Developer student from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanu9044&label=Profile%20views&color=0e75b6&style=flat" alt="tanu9044" /> </p>
 
