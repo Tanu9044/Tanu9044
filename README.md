@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TANU</h1>
-<h3 align="center"> B.Tech CS(AI&ML) 3rd Year Student at SMS Lucknow</h3>
+<h3 align="center"> B.Tech Artificial Intelligence and Machine Learning Final Year Student at School of Management School Lucknow</h3>
 
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0*PXf5ge7QCN9Ga_CL.gif">
 
